@@ -1,3 +1,5 @@
+This was a homework assignment. The oringal project can be found here: https://github.com/Colorado-CompSci-Ugrad/BST/tree/master/
+
 # BinarySearchTree (BST)
 In this assignment you will implement a Binary Search Tree
 
